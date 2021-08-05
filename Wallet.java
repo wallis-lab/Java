@@ -1,4 +1,3 @@
-//Rende Huang
 import java.util.ArrayList;
 import java.util.Scanner;
 
